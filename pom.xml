@@ -7,7 +7,7 @@
 
     <groupId>elasticsearch-hadoop</groupId>
     <artifactId>elasticsearch-hadoop</artifactId>
-    <version>2.3.2-2</version>
+    <version>5.0.0-alpha5-1</version>
 
     <dependencies>
 
@@ -15,11 +15,11 @@
 
     <properties>
 
-        <package.fullversion>elasticsearch-hadoop-2.3.2</package.fullversion>
+        <package.fullversion>elasticsearch-hadoop-5.0.0-alpha5</package.fullversion>
         <package.installdir>/usr/share/elasticsearch-hadoop</package.installdir>
 
         <package.download.url>http://download.elastic.co/hadoop</package.download.url>
-        <package.download.filename>elasticsearch-hadoop-2.3.2.zip</package.download.filename>
+        <package.download.filename>elasticsearch-hadoop-5.0.0-alpha5.zip</package.download.filename>
 
     </properties>
 
